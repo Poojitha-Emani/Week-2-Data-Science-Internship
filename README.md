@@ -1,4 +1,3 @@
-# Week-2-Data-Science-Internship
 # Week 2 - SQL & Python for Data Science with Python Assignment
 ### Skill Nexis Data Science Internship (Remote)
 
